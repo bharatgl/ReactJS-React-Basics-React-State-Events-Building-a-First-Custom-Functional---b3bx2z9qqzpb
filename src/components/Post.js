@@ -1,5 +1,3 @@
-es (10 sloc)  181 Bytes
-
 import React from "react";
 const Post = ({ ele }) => {
   return (
